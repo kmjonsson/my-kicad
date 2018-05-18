@@ -1,0 +1,6 @@
+[submodule "Libs/external/kicad_teensy"]
+	path = Libs/external/kicad_teensy
+	url = https://github.com/XenGi/kicad_teensy.git
+[submodule "Libs/external/sma-edge"]
+	path = Libs/external/sma-edge
+	url = https://github.com/eblanton/kicad-footprints.pretty.git

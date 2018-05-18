@@ -1,0 +1,3 @@
+wget -O kicad-symbols.zip https://github.com/KiCad/kicad-symbols/archive/master.zip
+wget -O kicad-packages3d.zip https://github.com/KiCad/kicad-packages3d/archive/master.zip
+wget -O kicad-footprints.zip https://github.com/KiCad/kicad-footprints/archive/master.zip
